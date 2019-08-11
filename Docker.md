@@ -8,6 +8,19 @@ enviar y ejecutar aplicaciones distribuidas, tanto en portatiles, como en maquin
 
 ### Imagen vs Contenedor
 
+
+#### Ejemplos parra comprender diferencia entre imagen vs contenedor
+
+
  - Imagen: Lo que se distribuye, es un binario, es la plantilla. Una vez que lo ejecutas, pasa a ser un contenedor.
 
  - Contenedor: Lo que se ejecuta, tiene nombre, atributos, configuración, una ejecución interna.
+
+ Encabezado Tabla | Segundo Encabezado
+----------------- | -------------------
+Plantilla de word | Documento de word
+Clase java | Objeto Java
+Imagen de maquina virtual | MV ejecutandose
+
+
+
